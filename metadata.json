@@ -1,0 +1,5 @@
+{
+  "name": "Character Image Creator Pro",
+  "description": "An application to generate character images based on reference photos and scene descriptions using AI. Customize output quality and influence strength to bring your characters to life.",
+  "requestFramePermissions": []
+}
